@@ -1,2 +1,5 @@
 Datasets/
 tmp/
+
+# ignore .pkl files
+*.pkl
